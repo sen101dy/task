@@ -1,0 +1,46 @@
+.h1{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: skyblue;
+}
+.img{
+width: 30%;
+height: 30%;
+}
+.ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:lighter;
+    color: skyblue;
+}
+.form{
+    background-color: aliceblue;
+}
+.table{
+    border-style: solid;
+    border-color: aliceblue;
+}
+.id000{
+    color:blueviolet;
+}
+.id001{
+    color:blue;
+}
+.id010{
+    color:green;
+}
+.id011{
+    color:yellow;
+}
+.id100{
+    color:orangered;
+}
+.id101{
+    color:red;
+}
+nav > img{
+    border-style: none;
+    width: 15%;
+    height: 15%;
+}
